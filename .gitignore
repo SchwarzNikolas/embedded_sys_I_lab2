@@ -18,6 +18,8 @@ mmw_oob/
 docker-compose.y*
 
 .settings/
+.theia/
+*.theia-workspace
 
 # Prerequisites
 *.d
