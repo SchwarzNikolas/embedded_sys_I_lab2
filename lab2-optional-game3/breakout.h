@@ -1,5 +1,5 @@
-#ifndef PONG_H
-#define PONG_H
+#ifndef BREAKOUT_H
+#define BREAKOUT_H
 
 #include <stdint.h>
 #include <stdbool.h>
